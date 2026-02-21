@@ -1,6 +1,7 @@
 # Internal Security Audit & Compliance Assessment
 
 Framework: NIST Cybersecurity Framework (CSF)
+
 Focus: Cybersecurity Risk & GRC Analysis
 
 ## Executive Summary
