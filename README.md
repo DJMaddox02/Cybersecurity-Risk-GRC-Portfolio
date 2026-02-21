@@ -1,0 +1,1 @@
+This portfolio showcases hands-on cybersecurity risk and compliance assessments aligned with the NIST Cybersecurity Framework (CSF). Projects demonstrate experience in control evaluation, audit review, regulatory exposure analysis (including PCI-DSS and GDPR considerations), and risk-based remediation planning.
