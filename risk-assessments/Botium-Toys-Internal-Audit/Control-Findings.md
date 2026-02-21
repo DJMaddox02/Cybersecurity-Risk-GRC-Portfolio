@@ -3,7 +3,9 @@
 🔴 LEAST PRIVILAGE – Not Implemented
 
 Status: Control Missing
+
 Risk: High
+
 Framework Mapping: NIST PR.AC
 
 All employees currently have access to internally stored data including customer information, increasing breach likelihood.
