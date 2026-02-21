@@ -1,4 +1,5 @@
 Control Findings
+
 🔴 Least Privilege – Not Implemented
 
 Status: Control Missing
