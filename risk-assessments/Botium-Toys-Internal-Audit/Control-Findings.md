@@ -1,5 +1,7 @@
 # Control Findings
 
+## 🔴 Urgently Inneffective Controls Identified
+
 🔴 LEAST PRIVILAGE – Not Implemented
 
 Status: Control Missing
@@ -34,6 +36,8 @@ Sensitive payment and customer information is stored without encryption.
 
 RECOMMENDATION:
 Encrypt sensitive data at rest and in transit.
+
+## 🟡 Moderately Effective Controls Identified 
 
 🟡 Password Governance – Weak
 
