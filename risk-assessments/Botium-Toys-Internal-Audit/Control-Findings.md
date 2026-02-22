@@ -4,11 +4,11 @@
 
 🔴 LEAST PRIVILAGE – Not Implemented
 
-Status: Control Missing
+- Status: Control Missing
 
-Risk: High
+- Risk: High
 
-Framework Mapping: NIST PR.AC
+- Framework Mapping: NIST PR.AC
 
 All employees currently have access to internally stored data including customer information, increasing breach likelihood.
 
@@ -17,9 +17,9 @@ Implement role-based access control (RBAC) enforcing least privilege principles.
 
 🔴 DISASTER RECOVERY PLANNING – Not Implemented
 
-Status: Control Missing
+- Status: Control Missing
 
-Risk Level: High
+- Risk Level: High
 
 No disaster recovery plan or backup strategy exists, creating major business continuity risk.
 
@@ -28,9 +28,9 @@ Develop tested disaster recovery and backup procedures aligned with NIST Recover
 
 🔴 Encryption – Not Implemented
 
-Status: Control Missing
+- Status: Control Missing
 
-Risk Level: High
+- Risk Level: High
 
 Sensitive payment and customer information is stored without encryption.
 
