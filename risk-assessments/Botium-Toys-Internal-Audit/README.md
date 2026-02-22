@@ -59,10 +59,10 @@ The audit identified significant control gaps affecting confidentiality, access 
 <img src="screenshots/controls-checklist-pt2.png" width="600">
 
 ### PCI-DSS Review
-![PCI-DSS Review](screenshots/PCI-DSS-review.png)
+<img src="screenshots/PCI-DSS-review.png" width="600">
 
 ### GDPR Review
-![GDPR Review](screenshots/GDPR-review.png)
+<img src="screenshots/GDPR-review.png" width="600">
 
 ### Recommendations Summary
-![Recommendations](screenshots/Recommendations.png)
+<img src="screenshots/Recommendations.png" width="600">
