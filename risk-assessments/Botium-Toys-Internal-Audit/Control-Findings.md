@@ -17,7 +17,10 @@ Implement role-based access control (RBAC) enforcing least privilege principles.
 
 🔴 DISASTER RECOVERY PLANNING – Not Implemented
 
+Status: Control Missing
+
 Risk Level: High
+
 No disaster recovery plan or backup strategy exists, creating major business continuity risk.
 
 RECOMMENDATION:
@@ -25,7 +28,10 @@ Develop tested disaster recovery and backup procedures aligned with NIST Recover
 
 🔴 Encryption – Not Implemented
 
+Status: Control Missing
+
 Risk Level: High
+
 Sensitive payment and customer information is stored without encryption.
 
 ### Compliance Impact
