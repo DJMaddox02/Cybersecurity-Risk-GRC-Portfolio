@@ -51,3 +51,17 @@ The audit identified significant control gaps affecting confidentiality, access 
 - Risk Findings Documentation
 
 - Remediation Roadmap
+
+## Evidence (Screenshots)
+
+### Controls & Compliance Checklist
+![Controls Checklist](screenshots/controls-checklist-pt2.png)
+
+### PCI-DSS Review
+![PCI-DSS Review](screenshots/PCI-DSS-review.png)
+
+### GDPR Review
+![GDPR Review](screenshots/GDPR-review.png)
+
+### Recommendations Summary
+![Recommendations](screenshots/recommendations.png)
