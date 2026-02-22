@@ -55,7 +55,7 @@ The audit identified significant control gaps affecting confidentiality, access 
 ## Evidence (Screenshots)
 
 ### Controls & Compliance Checklist
-![Controls Checklist](screenshots/controls-pt1.png)
+<img src="screenshots/controls-pt1.png" width="500">
 <img src="screenshots/controls-checklist-pt2.png" width="700">
 
 ### PCI-DSS Review
