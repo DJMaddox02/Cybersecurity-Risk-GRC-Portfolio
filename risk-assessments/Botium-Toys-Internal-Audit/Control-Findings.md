@@ -47,7 +47,8 @@ Encrypt sensitive data at rest and in transit.
 
 🟡 Password Governance – Weak
 
-Risk Level: Moderate 
+- Risk Level: Moderate
+
 Password complexity requirements are minimal and no centralized password management exists.
 
 RECOMMENDATION:
