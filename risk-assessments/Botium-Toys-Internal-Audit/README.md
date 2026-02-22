@@ -64,4 +64,4 @@ The audit identified significant control gaps affecting confidentiality, access 
 ![GDPR Review](screenshots/GDPR-review.png)
 
 ### Recommendations Summary
-![Recommendations](screenshots/recommendations.png)
+![Recommendations](screenshots/Recommendations.png)
